@@ -39,7 +39,7 @@ evidence-based operational analysis and planning text.
 ## What I work with
 
 `Python` `LangChain` `RAG` `Agent Workflows` `Retrieval Evaluation`
-`Excel Automation` `Data Analytics` `GitHub Actions`
+`Excel Automation` `Data Analytics` `GitHub Actions``SQL`
 
 ---
 
